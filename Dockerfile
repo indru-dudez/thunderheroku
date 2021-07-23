@@ -1,6 +1,6 @@
 FROM Thundergang/thunderuserbot:latest
 
-RUN git clone https://github.com/Thundergang/thunderuserbot.git /root/userbot
+RUN git clone https://github.com/indru-dudez/thunderuserbot.git /root/userbot
 WORKDIR /root/thunderbot
 
 # Installing the requirements
